@@ -52,5 +52,5 @@ El proyecto incluye un artefacto visual de demostración en la carpeta `assets/`
 
 Desarrollado con dedicación por **Josue Vasquez**.
 
-- GitHub: [@josuevasque2305](https://github.com/josuevasque2305)
+- GitHub: [@josuevasquez2305](https://github.com/josuevasque2305)
 - Proyecto de certificación: freeCodeCamp — Responsive Web Design
